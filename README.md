@@ -24,6 +24,4 @@ python ascii_donut.py
 
 ---
 
-**TL;DR:** Put it in `README.md` with sections like **overview**, **projects**, **tech stack**, **concepts**, **demo**, **future work**. Keeps it clean and professional.  
-
-Want me to also create a **fancy ASCII-style banner** at the top of the README (like `"ASCII PROJECTS"`) to make it pop?
+**TL;DR:** Done with 💖 by **RAHUL SURESH** aka **slimycashcodes**
