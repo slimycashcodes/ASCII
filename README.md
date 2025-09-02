@@ -44,7 +44,7 @@ Clone the repo and install the requirements:
 git clone https://github.com/yourusername/ascii-video-converter.git
 cd ascii-video-converter
 pip install -r requirements.txt
-
+```
 ---
 
 **TL;DR:** Done with 💖 by **RAHUL SURESH** aka **slimycashcodes**
