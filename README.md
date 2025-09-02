@@ -20,7 +20,7 @@ Both projects involve concepts like **OpenCV**, **matrices**, **vectors**, and r
 **Run:**
 ```bash
 python ascii_donut.py
-
+```
 
 ---
 
